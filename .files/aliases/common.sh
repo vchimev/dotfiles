@@ -1,0 +1,13 @@
+alias -- ~='cd ~'
+alias -- ..='cd ..'
+alias -- -='cd -'
+alias h=history
+alias l='ls -ahl'
+alias rmf="rm -frv"
+alias rmf*="rm -frv *"
+alias c="code"
+alias -- c.="code ."
+alias o="open"
+alias -- o.="open ."
+alias v="vim"
+alias -- v.="vim ."
