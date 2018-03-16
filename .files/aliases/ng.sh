@@ -1,0 +1,6 @@
+alias ngv="ng -v"
+alias ngn="ng new"
+alias ngs="ng serve -o"
+alias nggc="ng generate component"
+alias nggm="ng generate module"
+alias nggs="ng generate service"
