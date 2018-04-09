@@ -11,4 +11,3 @@ alias o="open"
 alias -- o.="open ."
 alias v="vim"
 alias -- v.="vim ."
-alias -- .~-='. ~/.bash_profile'
