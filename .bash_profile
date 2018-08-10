@@ -1,5 +1,6 @@
 # aliases
 source ~/Work/git/dotfiles/.files/aliases/common.sh
+source ~/Work/git/dotfiles/.files/aliases/emu.sh
 source ~/Work/git/dotfiles/.files/aliases/git.sh
 source ~/Work/git/dotfiles/.files/aliases/npm.sh
 source ~/Work/git/dotfiles/.files/aliases/tar.sh
