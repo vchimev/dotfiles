@@ -241,7 +241,7 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>562 418 796 473 0 0 1920 1178 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1 14 1953 1164 0 0 1920 1178 </string>
+	<string>0 61 1920 1110 0 0 1920 1178 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>1920 61 665 1110 1920 0 1920 1178 </string>
 	<key>New Bookmarks</key>
@@ -1195,7 +1195,7 @@
 				<key>Has Toolbelt</key>
 				<false/>
 				<key>Height</key>
-				<real>1141</real>
+				<real>1110</real>
 				<key>Hide After Opening</key>
 				<false/>
 				<key>Hiding Toolbelt Should Resize Window</key>
@@ -1990,7 +1990,7 @@
 										<key>Bookmark Name</key>
 										<string>Default</string>
 										<key>Columns</key>
-										<integer>245</integer>
+										<integer>236</integer>
 										<key>Commands</key>
 										<array/>
 										<key>Directories</key>
@@ -2011,6 +2011,13 @@
 											<string>/Users/vchimev/Work/git/dotfiles</string>
 											<string>/Users/vchimev/Work/git/dotfiles</string>
 											<string>/Users/vchimev/Work/git/dotfiles</string>
+											<string>/Users/vchimev/Work/git/dotfiles</string>
+											<string>/Users/vchimev</string>
+											<string>/Users/vchimev</string>
+											<string>/Users/vchimev</string>
+											<string>/Users/vchimev</string>
+											<string>/Users/vchimev</string>
+											<string>/Users/vchimev</string>
 										</array>
 										<key>Environment</key>
 										<dict>
@@ -2027,34 +2034,34 @@
 											<string>Shell Launcher</string>
 										</dict>
 										<key>Rows</key>
-										<integer>60</integer>
+										<integer>59</integer>
 										<key>Server PID</key>
-										<integer>3054</integer>
+										<integer>475</integer>
 										<key>Session Default Name</key>
 										<string>Default</string>
 										<key>Session GUID</key>
 										<string>85B4CAE0-12C6-4112-AFCB-6894A2DEAB87</string>
 										<key>Session Name</key>
-										<string>dotfiles</string>
+										<string>vchimev</string>
 										<key>Session Window Title</key>
-										<string>dotfiles</string>
+										<string>vchimev</string>
 										<key>Shell Integration Ever Used</key>
 										<false/>
 										<key>Substitutions</key>
 										<dict/>
 										<key>TTY</key>
-										<string>/dev/ttys001</string>
+										<string>/dev/ttys000</string>
 										<key>Working Directory</key>
-										<string>/Users/vchimev/Work/git/dotfiles</string>
+										<string>/Users/vchimev</string>
 									</dict>
 									<key>View Type</key>
 									<string>SessionView</string>
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>1097</real>
+										<real>1066</real>
 										<key>width</key>
-										<real>1987</real>
+										<real>1913</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
@@ -2067,9 +2074,9 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>1097</real>
+								<real>1066</real>
 								<key>width</key>
-								<real>1987</real>
+								<real>1913</real>
 								<key>x</key>
 								<real>0.0</real>
 								<key>y</key>
@@ -2083,13 +2090,13 @@
 				<key>TerminalGuid</key>
 				<string>pty-4704DF41-05F7-4F66-BDFE-8C5B3B88D395</string>
 				<key>Width</key>
-				<real>1987</real>
+				<real>1913</real>
 				<key>Window Type</key>
 				<integer>0</integer>
 				<key>X Origin</key>
 				<real>0.0</real>
 				<key>Y Origin</key>
-				<real>37</real>
+				<real>61</real>
 			</dict>
 		</array>
 	</dict>
